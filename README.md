@@ -4,7 +4,7 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b> Engineering Physics
+<b> Lab. | <b> Electronics Engineering
 <b> Experiment|     <b> 1. Half Wave Rectifier with and without filters
 
 <h5> About the Experiment : </h5>
@@ -20,7 +20,7 @@ Study of Half – wave rectifier with & without Filter and to finds Ripple Facto
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Er. Dharmendra kumar sachan | Faculty |Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur | bhagwan.toksha@mit.asia
+1 | Er. Dharmendra kumar sachan | Faculty |Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur | 
 2 | Sajal Gupta | Student | Computer Science & Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur |sajalgupta243@gmail.com
 3 | Abhishek kumar | Student | Electonics Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur|abmitra222000@gmail.com
 4 | Divakar Pal | Student | Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur |divakarpal@rediffmail.com
