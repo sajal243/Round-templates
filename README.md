@@ -13,14 +13,14 @@ Study of Half – wave rectifier with & without Filter and to finds Ripple Facto
 <b>Name of Developer | <b> Er. Dharmendra kumar sachan
 :--|:--|
 <b> Institute | <b> Dr. Ambedkar Institute of Technology for Handicapped , Kanpur
-<b> Email id|     <b> 
+<b> Email id|     <b> Dks@aith.ac.in
 <b> Department | Computer Science And Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Er. Dharmendra kumar sachan | Faculty |Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur | 
+1 | Er. Dharmendra kumar sachan | Faculty |Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur | Dks@aith.ac.in
 2 | Sajal Gupta | Student | Computer Science & Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur |sajalgupta243@gmail.com
 3 | Abhishek kumar | Student | Electonics Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur|abmitra222000@gmail.com
 4 | Divakar Pal | Student | Computer Science And Engineering |  Dr. Ambedkar Institute of Technology for Handicapped , Kanpur |divakarpal@rediffmail.com
