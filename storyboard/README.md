@@ -39,12 +39,6 @@ AM wave can be expressed as:
 5. Connecting wires
 
 
-#### With following specifications,
-
-1.	DSB/SSB	AM transmitter kit	(ST2201)
-2  CRO as required by the DSB/SSb transmitter
-3.	Patch cords of desired lenght and required numbers
-
 ### 4.User objective goals
 1. To study half wave rectifier with or without filters
 2. To calculate Ripple factor 
