@@ -60,7 +60,7 @@ AM wave can be expressed as:
 <br> ANS:-A
 
 ##### 2.What is the efficiency of a rectifier?	
-<br> <b> a)The ratio of AC output power to the applied AC input power is known as the efficiency of a rectifier.	 </b>
+<br> a)The ratio of AC output power to the applied AC input power is known as the efficiency of a rectifier.	
 <br> b) The ratio of DC output power to the applied AC output power is known as the efficiency of a rectifier.
 <br> <b> c)The ratio of DC output power to the applied AC input power is known as the efficiency of a rectifier.</b>
 <br> d)The ratio of AC output power to the applied DC input power is known as the efficiency of a rectifier.
