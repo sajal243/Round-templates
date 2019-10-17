@@ -17,12 +17,14 @@ The Process by which an alternating current (or voltage) is transformed into  a 
 The operation of a diode as a rectifier can be studied with the help of its dynamic characteristic. Let the source voltage be a sinusoidal voltage v=V0sin wt. The dynamic characteristic of the diode is in the half wave form. The sinusoidal input voltage waveform is drawn below the dynamic characteristic with the time axis vertically downwards .
 The sinusoidal input voltage v has a zero average (or dc) value. But the output voltage vL has a nonzero (or dc) value since the negative half cycles are absent in the waveform of VL . Since the load current is unidirectional , the ac input voltage is converted into  a dc voltage at the output .
 (A)	Half-Wave Rectifier 
+<img src="rectifier with.jpg">
+<img src="rectifier without.jpg">
 
 Since the negative half cycles of the input voltage are cut off are absent from the output load voltage in the circuit  , which uses a single diode the circuit is referred to as the half wave rectifier . A practical half – wave rectifier circuit  uses a transformer is to step up or step down  the ac main voltage connected to its primary . The voltage at the input of the rectifier is 
 v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer and Vp is the amplitude of the ac mains voltage . By adjusting n, the secondary voltage is made to suit the diode rating . The diode current flows during the positive half cycles of the input voltage .
 
-(B)	Full-wave Rectifier 
-If two diode are so  connected that conduction occurs through one diode during one half of the input voltage 
+
+
 
 
 
