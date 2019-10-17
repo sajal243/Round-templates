@@ -8,26 +8,22 @@ The experiment is based on Half Wave Rectifier  which convert a single-phase sup
 It is a step function (for positive pass, negativeblock): passing positive corresponds to the ramp function being the identity on positive inputs, blocking negative corresponds to being zero on negative inputs
 
 The objective of the experiment is to study half wave rectifier and calculate ripple factor.
-### 2. Story:
 
-Double sideband suppressed carrier modulation
-At the beginning of the explanation of amplitude modulation, we explained the AM radio system, but the term for amplitude in the theoretical expression was complex. If the amplitude of the carrier wave is simply changed and mathematised, it is as follows. This modulation method is called DSB-SC (double sideband suppressed carrier modulation). As the name suggests, there’s no wave carrier in the modulated wave.
+## 2. Story:
 
-Single sideband suppressed carrier modulation (SSB-SC)
-The modulation method where only a single band of double sideband suppressed carrier modulation is transmitted is known simply as SSB. It offers even better electrical efficiency and frequency band efficiency than DSB. In addition, with digital modulation, modulation is performed at relatively low frequency, and this method is also used to up-convert the signal to a radio frequency. SSB-SC modulation can be achieved with various systems, but in terms of hardware, USB or LSB can be used as a filter. As with DSB-SC, the modulating signal spectrum is shifted directly to the carrier frequency band without loss.
- 
- 1.	Amplitude modulation: Modulation is a process of translating information signal from low band frequency to high band frequency that is suits the transmission medium. Information signal is usually of low frequency, so it cannot travel far. It needs a carrier signal of higher frequency for long distance destination. The inputs are carrier and information (modulating) signals while the output is called the modulated signal. Amplitude Modulation (AM) refers to the modulation technique where the carrier’s amplitude is varied in accordance to the instantaneous value of the modulating or baseband signal’s amplitude. An AM signal is represented as:
+<b>RECTIFICATION</b>
+The Process by which an alternating current (or voltage) is transformed into  a direct current (or voltage) is called rectification. An electrical device having a low resistance to current in one direction and a relatively high resistance  to current in the reverse direction serves as rectifier . The dynamic character of a diode is represented by rectifier . 
+<b>RECTIFIER OPERATION</b>
+The operation of a diode as a rectifier can be studied with the help of its dynamic characteristic. Let the source voltage be a sinusoidal voltage v=V0sin wt. The dynamic characteristic of the diode is in the half wave form. The sinusoidal input voltage waveform is drawn below the dynamic characteristic with the time axis vertically downwards .
+The sinusoidal input voltage v has a zero average (or dc) value. But the output voltage vL has a nonzero (or dc) value since the negative half cycles are absent in the waveform of VL . Since the load current is unidirectional , the ac input voltage is converted into  a dc voltage at the output .
+(A)	Half-Wave Rectifier 
 
-Sinusoidal carrier wave C(t) given as:
-   c(t) = A cos wct	A = Max amplitude of the carrier wave
-   Wc = carrier frequency
-AM wave can be expressed as:
-   s(t) = x(t) cos wct + A cos wct s(t) = [A + x(t) ] cos wct
+Since the negative half cycles of the input voltage are cut off are absent from the output load voltage in the circuit  , which uses a single diode the circuit is referred to as the half wave rectifier . A practical half – wave rectifier circuit  uses a transformer is to step up or step down  the ac main voltage connected to its primary . The voltage at the input of the rectifier is 
+v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer and Vp is the amplitude of the ac mains voltage . By adjusting n, the secondary voltage is made to suit the diode rating . The diode current flows during the positive half cycles of the input voltage .
 
-2.	Modulation Index: The amount by which the amplitude of the carrier wave increases and decreases depends on the amplitude of the information signal and is known as modulation index or depth of modulation. The extent of amplitude variation in AM about a unmodulated carrier amplitude is measured in terms of a factor called modulation index.
+(B)	Full-wave Rectifier 
+If two diode are so  connected that conduction occurs through one diode during one half of the input voltage 
 
-  m = Vmax-Vmin	X 100 % Vmax+ Vmin
-3.	Double side band transmitter: The transmitter circuit produces the AM signal which is used to carry information over transmission to the receiver.
 
 
 
