@@ -31,7 +31,7 @@ The student must be able to understand the working of Half Wave Rectifier and th
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
 a) Student will be able to explain the working of half wave rectifier.
-To calculate the ripple factor of Half Wave Rectifier.
+b) To calculate the ripple factor of Half Wave Rectifier.
 
 
 <br/>
@@ -45,11 +45,11 @@ To calculate the ripple factor of Half Wave Rectifier.
 
 #### 3. Task & Assessment Questions:
 
-Read the theory and comprehend the concepts related to the experiment. 
+Read the theory and comprehend the concept related to the experiment. 
 <br>
 <div>
-    The quizes are provided that will judge and inhance the skills of the Student.
-    Each question is relevent to the experiment and just ment to increse the understanding of experiment and their concept.
+    The quizes are provided that will judge and enhance the skills of the Student.
+    Each question is relevent to the experiment and judgement to increse the understanding of experiment and their concept.
  
 </div>
 <br>
