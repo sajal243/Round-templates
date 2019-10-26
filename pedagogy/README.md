@@ -8,7 +8,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Electronics Engineering
-<b> Experiment|     <b> Study of Half Wave Rectifier with & without Filter and Calculate Ripple Factor.
+<b> Experiment|     <b>Half Wave Rectifier With & Without Filter
 
 
 <h4> [1. Focus Area](#LO)
