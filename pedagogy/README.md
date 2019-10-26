@@ -2,13 +2,13 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment: HALF WAVE RECTIFIER WITH & WITHOUT FILTERS <a name="top"></a> <br>
+<b> Experiment: HALF WAVE RECTIFIER WITH & WITHOUT FILTER <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Electronics Engineering
-<b> Experiment|     <b> Study of Half – wave rectifier with & without Filter and to finds Ripple Factor.
+<b> Experiment|     <b> Study of Half Wave Rectifier with & without Filter and Calculate Ripple Factor.
 
 
 <h4> [1. Focus Area](#LO)
@@ -19,7 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-The students know the concept of Half Wave Rectifier and they will learn how to determine Ripple factor,they will come to know how to use Half Wave Rectifier learn about its circuit diagram and how thw Rectification occurs and helpfull.
+The student must be able to understand the working of Half Wave Rectifier and they will learn how to calculate Ripple factor,they will come to know how to use Half Wave Rectifier and learn about its circuit diagram and how the Rectification occurs.
 
 <br/>
 <div align="right">
@@ -32,7 +32,7 @@ The students know the concept of Half Wave Rectifier and they will learn how to 
 #### 2. Learning Objectives and Cognitive Level
 
 To study the concept of Half Wave Rectifier 
-To determine its ripple factor.
+To calculate the ripple factor of Half Wave Rectifier.
 
 
 <br/>
