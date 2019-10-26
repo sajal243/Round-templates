@@ -30,8 +30,7 @@ The student must be able to understand the working of Half Wave Rectifier and th
 
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
-
-To study the concept of Half Wave Rectifier 
+a) Student will be able to explain the working of half wave rectifier.
 To calculate the ripple factor of Half Wave Rectifier.
 
 
