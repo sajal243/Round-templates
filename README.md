@@ -8,7 +8,7 @@
 <b> Experiment|     <b> 1. Half Wave Rectifier with and without filters
 
 <h5> About the Experiment : </h5>
-Study of Half – wave rectifier with & without Filter and to finds Ripple Factor
+Working of Half – wave rectifier with & without Filter and calculate Ripple Factor
 
 <b>Name of Developer | <b> Er. Dharmendra kumar sachan
 :--|:--|
