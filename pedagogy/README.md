@@ -32,7 +32,7 @@ In this experiment, student will be taken some readings and try to analyse the d
 
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
-a) Student will be able to explain the working of half wave rectifier.
+a) Student will be able to explain the working of half wave rectifier.<br>
 b) To calculate the ripple factor of Half Wave Rectifier.
 
 
