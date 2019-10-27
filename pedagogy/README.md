@@ -19,9 +19,9 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-The student must be able to understand the working of Half Wave Rectifier and they will learn how to calculate Ripple factor.<br>
-They will be able to visualize and understand Half Wave Rectifier and its circuit diagram and how the Rectification occurs.<br>
-In this experiment, student will be taken some readings and try to analyse the data .
+a) The student must be able to understand the working of Half Wave Rectifier and they will learn how to calculate Ripple factor.<br>
+b) They will be able to visualize and understand Half Wave Rectifier and its circuit diagram and how the Rectification occurs.<br>
+c) In this experiment, student will be taken some readings and try to analyse the data .
 
 <br/>
 <div align="right">
