@@ -59,7 +59,7 @@ Read the theory and comprehend the concept related to the experiment.
  
 </div>
 <br>
-4. Submit the quizzes and get result.
+  4. Submit the quizzes and get result.
 
 <br/>
 <div align="right">
