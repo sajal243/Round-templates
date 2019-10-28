@@ -9,5 +9,4 @@ The output of a rectifier gives a pulsating d.c. signal (Fig.1) because of prese
 some a.c. components whose frequency is equal to that of the a.c. supply frequency. Very
 often when rectifying an alternating voltage we wish to produce a "steady" direct voltage free
 from any voltage variations or ripple. Filter circuits are used to smoothen the output. Various
-filter circuits are available such as shunt capacitor, series inductor, choke input LC filter and
--filter etc.
+filter circuits are available such as shunt capacitor, series inductor, choke input LC filter etc.
