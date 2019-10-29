@@ -31,8 +31,8 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
                         Irms  = √(Im^2/2π ∫_0^π▒〖(1-  〖cos2ωt〗/2)⁡dωt 〗)  =  Im/2 
 <br><br>
 <b>Average or DC value of current</b> <br>
-  I(DC) =  Im/π<br>
-  V(DC) =   Vm/π<br>
+  I =  Im/π<br>
+  V =   Vm/π<br>
 
 
 
