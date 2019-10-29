@@ -7,7 +7,7 @@ Experiment 1: HALF WAVE RECTIFIER WITH & WITHOUT FILTERS
 The experiment is based on Half Wave Rectifier  which convert a single-phase supply, either the positive or negative half of the AC wave is passed, while the other half is blocked.
 It is a step function (for positive pass, negativeblock): passing positive corresponds to the ramp function being the identity on positive inputs, blocking negative corresponds to being zero on negative inputs
 
-The objective of the experiment is to study half wave rectifier and calculate ripple factor.
+The objective of the experiment is to study the working of half wave rectifier and calculate ripple factor.
 
 ## 2. Story:
 
@@ -21,10 +21,14 @@ The sinusoidal input voltage v has a zero average (or dc) value. But the output 
 <img src="storyboard/rectifier without.jpg">
 
 Since the negative half cycles of the input voltage are cut off are absent from the output load voltage in the circuit  , which uses a single diode the circuit is referred to as the half wave rectifier . A practical half – wave rectifier circuit  uses a transformer is to step up or step down  the ac main voltage connected to its primary . The voltage at the input of the rectifier is 
-v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer and Vp is the amplitude of the ac mains voltage . By adjusting n, the secondary voltage is made to suit the diode rating . The diode current flows during the positive half cycles of the input voltage .
+v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer and Vp is the amplitude of the ac mains voltage . By adjusting n, the secondary voltage is made to suit the diode rating . The diode current flows during the positive half cycles of the input voltage.
 
+### Formula Used:
 
-
+<b>The RMS VALUE OF CURRENT:</b>
+                        Irms  = √(1/2π ∫_0^2π▒I^2   dωt)
+     
+                   
 
 
 
