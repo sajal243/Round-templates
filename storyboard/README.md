@@ -38,7 +38,7 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
 
 
 ### 4.User objective goals
-1. To study half wave rectifier with or without filters
+1. To study working of half wave rectifier with or without filters
 2. To calculate Ripple factor 
 3. To calculate Efficiency
 
