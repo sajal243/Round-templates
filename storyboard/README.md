@@ -35,7 +35,7 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
   V =   Vm/π<br>
   
   <b>Ripple Factor:</b><br>
-  g =	Vac/Vdc       \t              (#   Vrms^2 = Vac^2 + Vdc^2)
+  g =	Vac/Vdc       <br>             (  Vrms^2 = Vac^2 + Vdc^2)
 
 
 
