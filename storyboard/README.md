@@ -33,6 +33,10 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
 <b>Average or DC value of current</b> <br>
   I =  Im/π<br>
   V =   Vm/π<br>
+  
+  <b>Ripple Factor:</b><br>
+  g =	Vac/Vdc       \t              (#   Vrms^2 = Vac^2 + Vdc^2)
+
 
 
 
