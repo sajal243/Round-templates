@@ -26,10 +26,8 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
 ### Formula Used:
 
 <b>The RMS VALUE OF CURRENT:</b><br>
-<img src="storyboard/ima.jpg">
-                        Irms  = √(1/2π ∫_0^2π▒I^2   dωt)<br>
-                        Irms  = √(1/2π ∫_0^2π▒〖I^2  〖sin〗^2⁡dωt 〗)<br>
-                        Irms  = √(Im^2/2π ∫_0^π▒〖(1-  〖cos2ωt〗/2)⁡dωt 〗)  =  Im/2 
+<img src="storyboard/ima.jpg"><br>
+                        Irms  =  Im/2 
 <br><br>
 <b>Average or DC value of current</b> <br>
   I =  Im/π<br>
