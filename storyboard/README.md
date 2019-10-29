@@ -12,7 +12,7 @@ The objective of the experiment is to study the working of half wave rectifier a
 ## 2. Story:
 
 <b>RECTIFICATION:</b><br>
-The Process by which an alternating current (or voltage) is transformed into  a direct current (or voltage) is called rectification. An electrical device having a low resistance to current in one direction and a relatively high resistance  to current in the reverse direction serves as rectifier . The dynamic character of a diode is represented by rectifier . 
+The Process by which an alternating current (or voltage) is transformed into  a direct current (or voltage) is called rectification. An electrical device having a low resistance to current in one direction and a relatively high resistance  to current in the reverse direction serves as rectifier . The dynamic character of a diode is represented by rectifier .<br> 
 <b>RECTIFIER OPERATION:</b><br>
 The operation of a diode as a rectifier can be studied with the help of its dynamic characteristic. Let the source voltage be a sinusoidal voltage v=V0sin wt. The dynamic characteristic of the diode is in the half wave form. The sinusoidal input voltage waveform is drawn below the dynamic characteristic with the time axis vertically downwards .
 The sinusoidal input voltage v has a zero average (or dc) value. But the output voltage vL has a nonzero (or dc) value since the negative half cycles are absent in the waveform of VL . Since the load current is unidirectional , the ac input voltage is converted into  a dc voltage at the output .
