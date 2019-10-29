@@ -35,7 +35,7 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
   
   ## Ripple Factor
   <img src="storyboard/rip.jpeg">
-<img src="storyboard/ripple.png">
+<img src="storyboard/rip1.jpeg">
 
 
 
