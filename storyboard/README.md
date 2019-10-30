@@ -112,6 +112,11 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
 <br> d) none of the above
 <br> ANS:-B
 
+## Application of Half Wave Rectifier
+a) For rectification applications<br>
+b) For signal demodulation applications<br>
+c) For signal peak applications<br>
+
 
 ## Conclusion
 #### 1). Analyze the operation of Full Wave rectifier with and without filter.<br>
