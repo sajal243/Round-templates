@@ -7,7 +7,8 @@ Experiment 1: HALF WAVE RECTIFIER WITH & WITHOUT FILTERS
 The experiment is based on Half Wave Rectifier  which convert a single-phase supply, either the positive or negative half of the AC wave is passed, while the other half is blocked.
 It is a step function (for positive pass, negativeblock): passing positive corresponds to the ramp function being the identity on positive inputs, blocking negative corresponds to being zero on negative inputs
 
-The objective of the experiment is to study the working of half wave rectifier and calculate ripple factor.
+The objective of the experiment is to study the working of half wave rectifier and calculate ripple factor.<br>
+<img src="storyboard/grp.png">
 
 ## 2. Story:
 
