@@ -51,7 +51,7 @@ d) With the help of real picture of Half Wave Rectifier, student try to achieve 
 1. Open the simulator1.
 2. Calculate Ripple factor on various readings.<br>
 3. Now, Open the quiz simulator.
-
+4. Attempt the quizes.
 Read the theory and comprehend the concept related to the experiment. 
 <br>
 <div>
@@ -60,7 +60,7 @@ Read the theory and comprehend the concept related to the experiment.
  
 </div>
 <br>
-  4. Submit the quizzes and get result.
+  5. Submit the quizzes and get result.
 
 <br/>
 <div align="right">
