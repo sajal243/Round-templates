@@ -112,7 +112,12 @@ v=nVpsin wt where n is the secondary -to-primary turns ratio of the transformer 
 <br> ANS:-B
 
 
-
+## Conclusion
+1). Analyze the operation of Full Wave rectifier with and without filter.<br>
+2). Calculate its performance parameters-<br>
+   a) Average or DC value <br>
+   a) Ripple factor<br>
+   
 
 
 
