@@ -78,8 +78,10 @@ Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
 1.| Student open simlator | Simulator calculate ripple factor on various readings | student will be able to match theoretical results with experimental results.
 2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student
-3.| Student solve the quizes | Simulator provide quizzes on screen one by one | This will test the understandindg of experiment of student
-4.| On completion student submit quizzes | Simulator show the results and correct answer| Student will be able to judge our knowledge.
+3.| Student will click on next button | Simulator open the next quiz| To open the next quiz.
+4.| Student can click on previous button. | Simulator open the previous quiz| To open the previous quiz.
+5.| Student solve the quizes | Simulator provide quizzes on screen one by one | This will test the understandindg of experiment of student
+6.| On completion student submit quizzes | Simulator show the results and correct answer| Student will be able to judge our knowledge.
 
 
 
