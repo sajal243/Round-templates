@@ -34,7 +34,7 @@ c) In this experiment, Student will be taken some readings and try to analyse th
 #### 2. Learning Objectives and Cognitive Level
 a) Student will be able to explain the working of half wave rectifier.<br>
 b) To calculate the ripple factor of Half Wave Rectifier.<br>
-c) With the help of real picture of Half Wave Rectifier, student try to achieve cognitive knowledge. 
+c) With the help of physical image of Half Wave Rectifier kit , student try to achieve cognitive knowledge. 
 
 
 <br/>
