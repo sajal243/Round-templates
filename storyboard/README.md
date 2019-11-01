@@ -119,14 +119,14 @@ c) For signal peak applications<br>
 
 
 ## Conclusion:
-## 1). A rectifier converts AC voltage to DC voltage.
+#### 1). A rectifier converts AC voltage to DC voltage.
 #### 2). Analyze the operation of Half Wave rectifier with and without filter.<br>
 #### 3). Calculate its performance parameters-</b><br>
            a) Average or DC value 
            b) Ripple factor 
-## 4). Half wave Rectifier only passes current through load during the positive half cycle of sinusoidal.   
-## 5). The output of half wave rectifier is pulsating DC voltage, to convert it to a steady state, a filter is used.
-## 6). The effectiveness of the filter can be measured by the ripple factor.
+#### 4). Half wave Rectifier only passes current through load during the positive half cycle of sinusoidal.   
+#### 5). The output of half wave rectifier is pulsating DC voltage, to convert it to a steady state, a filter is used.
+#### 6). The effectiveness of the filter can be measured by the ripple factor.
 
    
 
