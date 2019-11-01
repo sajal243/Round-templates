@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html> 
+<center>
+<meta charset="windows-1252">
+<meta name="viewport">
+<title>Half Wave-Rectifier Simulator with filter </title>
+<h1><b>Half Wave-Rectifier Simulator with filter</b></h1>
+
+<img src="vacf.gif"/><br><br>
+<img src="vdcf.gif"/><br><br>
+<img src="rec.png"/>
+
+<style type="text/css">
+body {margin: 30px;}
+</style> 
+</head>
+<body>
+<form>
+     <b>Voltage AC</b> : <input type="text" id="ac" /><br><br>
+     <b>Voltage DC</b> : <input type="text" id="dc" /><br><br>
+     <input type="button" onClick="ripple()" Value="Ripple Factor" />
+     <br><br>
+     <b>P dc</b> : <input type="text" id="pdc" /><br><br>
+     <b>P ac</b> : <input type="text" id="pac" /><br><br>
+     
+     <input type="button" onClick="efi()" Value="Efficiency" />
+</form>
+ <p>Ripple Factor: <br>
+ <span id = "rp"></span>
+ </p>
+ <p>Efficiency: <br>
+    <span id = "ef"></span>
+    </p>
+</body>
+<script>
+    
+    function ripple()
+{
+        num1 = document.getElementById("ac").value;
+        num2 = document.getElementById("dc").value;
+        
+        document.getElementById("rp").innerHTML = num1/num2;
+}
+
+function efi() 
+{ 
+        num1 = document.getElementById("pdc").value;
+        num2 = document.getElementById("pac").value;
+       
+        
+        document.getElementById("ef").innerHTML = num1/num2;
+}
+</script>
+</center>
+<head>
+</html>
